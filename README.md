@@ -1,3 +1,6 @@
+
+// INI SUDAH DIEDIT DIKIT UNTUK KEPENTINGAN TUGAS //
+
 [//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
 
 ![](https://github.com/kubeflow/blog/workflows/CI/badge.svg) 
